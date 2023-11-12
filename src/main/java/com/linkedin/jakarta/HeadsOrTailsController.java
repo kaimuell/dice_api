@@ -4,7 +4,7 @@ import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import java.util.Random;
 
-@Path("heads_or_tails")
+@Path("coin")
 @Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
 public class HeadsOrTailsController {

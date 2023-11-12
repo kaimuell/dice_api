@@ -7,7 +7,7 @@ import java.util.Random;
 @Path("coin")
 @Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
-public class HeadsOrTailsController {
+public class CoinTossController {
     Random random = new Random();
 
     @GET

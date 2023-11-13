@@ -1,4 +1,4 @@
-package com.linkedin.jakarta;
+package com.linkedin.jakarta.turing_award_service;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.enterprise.context.ApplicationScoped;

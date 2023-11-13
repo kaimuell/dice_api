@@ -1,4 +1,4 @@
-package com.linkedin.jakarta;
+package com.linkedin.jakarta.time_service;
 
 
 import jakarta.inject.Inject;

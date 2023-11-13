@@ -1,4 +1,4 @@
-package com.linkedin.jakarta;
+package com.linkedin.jakarta.dice_service;
 
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;

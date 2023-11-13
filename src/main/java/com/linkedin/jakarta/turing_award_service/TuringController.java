@@ -1,4 +1,4 @@
-package com.linkedin.jakarta;
+package com.linkedin.jakarta.turing_award_service;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.*;
